@@ -1,16 +1,14 @@
 # news_app
 
-A new Flutter project.
+Flutter application using Bloc, Dio, and shared preferences.
 
-## Getting Started
+Application is responsible for getting news for different topics like Business, Sports, and Science which are stored in an API. I used Dio to get data.
 
-This project is a starting point for a Flutter application.
+Light Mode :
 
-A few resources to get you started if this is your first Flutter project:
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54605034/144778855-efaa25e2-d6cd-4962-8c91-c45a0edbf7ee.png"><img src="https://user-images.githubusercontent.com/54605034/144778855-efaa25e2-d6cd-4962-8c91-c45a0edbf7ee.png" alt="Apple iPhone 11 Pro Max Presentation (1)" style="max-width: 100%;"></a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dark Mode :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54605034/144780334-88be7322-20ee-4c3d-8110-a2b108dc60a8.png"><img src="https://user-images.githubusercontent.com/54605034/144780334-88be7322-20ee-4c3d-8110-a2b108dc60a8.png" alt="Apple iPhone 11 Pro Max Presentation (3)" style="max-width: 100%;"></a>
+
